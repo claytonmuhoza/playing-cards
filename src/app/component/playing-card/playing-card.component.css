@@ -37,6 +37,7 @@
 figure#art img{
     width: 100%;
     height: 175px;
+    object-fit: cover;
 }
 figure#art{
     margin: 0;
